@@ -1,17 +1,8 @@
 # The set of languages for which implicit dependencies are needed:
 set(CMAKE_DEPENDS_LANGUAGES
-  "C"
   "CXX"
   )
 # The set of files for implicit dependencies of each language:
-set(CMAKE_DEPENDS_CHECK_C
-  "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.c" "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/source.dir/kernel/Processes.c.o"
-  )
-set(CMAKE_C_COMPILER_ID "GNU")
-
-# The include file search paths:
-set(CMAKE_C_TARGET_INCLUDE_PATH
-  )
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp" "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/source.dir/main.cpp.o"
   "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp" "/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/source.dir/peripherals/Aes.cpp.o"

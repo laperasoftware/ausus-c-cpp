@@ -6,6 +6,24 @@
 
 #IncludeRegexTransform: 
 
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.h
+stdio.h
+-
+stdio.h
+-
+sys/types.h
+-
+unistd.h
+-
+sys/wait.h
+-
+math.h
+-
+ftw.h
+-
+fcntl.h
+-
+
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp
 iostream
 -
@@ -13,6 +31,8 @@ vector
 -
 peripherals/Aes.h
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
+kernel/Processes.h
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.h
 
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
 

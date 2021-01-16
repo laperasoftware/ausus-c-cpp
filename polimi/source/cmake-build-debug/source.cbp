@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.c">
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.h">
 			<Option target="source"/>
 		</Unit>
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp">
