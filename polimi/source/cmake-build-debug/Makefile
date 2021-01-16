@@ -143,6 +143,33 @@ source/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/build
 .PHONY : source/fast
 
+kernel/Processes.o: kernel/Processes.c.o
+
+.PHONY : kernel/Processes.o
+
+# target to build an object file
+kernel/Processes.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/kernel/Processes.c.o
+.PHONY : kernel/Processes.c.o
+
+kernel/Processes.i: kernel/Processes.c.i
+
+.PHONY : kernel/Processes.i
+
+# target to preprocess a source file
+kernel/Processes.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/kernel/Processes.c.i
+.PHONY : kernel/Processes.c.i
+
+kernel/Processes.s: kernel/Processes.c.s
+
+.PHONY : kernel/Processes.s
+
+# target to generate assembly for a file
+kernel/Processes.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/kernel/Processes.c.s
+.PHONY : kernel/Processes.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -260,6 +287,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... source"
+	@echo "... kernel/Processes.o"
+	@echo "... kernel/Processes.i"
+	@echo "... kernel/Processes.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
