@@ -170,6 +170,33 @@ Aes.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Aes.cpp.s
 .PHONY : Aes.cpp.s
 
+TimerRegister.o: TimerRegister.cpp.o
+
+.PHONY : TimerRegister.o
+
+# target to build an object file
+TimerRegister.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.o
+.PHONY : TimerRegister.cpp.o
+
+TimerRegister.i: TimerRegister.cpp.i
+
+.PHONY : TimerRegister.i
+
+# target to preprocess a source file
+TimerRegister.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.i
+.PHONY : TimerRegister.cpp.i
+
+TimerRegister.s: TimerRegister.cpp.s
+
+.PHONY : TimerRegister.s
+
+# target to generate assembly for a file
+TimerRegister.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.s
+.PHONY : TimerRegister.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -209,6 +236,9 @@ help:
 	@echo "... Aes.o"
 	@echo "... Aes.i"
 	@echo "... Aes.s"
+	@echo "... TimerRegister.o"
+	@echo "... TimerRegister.i"
+	@echo "... TimerRegister.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

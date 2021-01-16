@@ -46,7 +46,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Informatica/ausus-c-cpp/polimi/source/CMakeLists.txt" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../../../Informatica/ausus-c-cpp/polimi" />
+    </key>
   </component>
   <component name="RunManager" selected="CMake Application.Run">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
@@ -87,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610792275554</updated>
-      <workItem from="1610792277004" duration="6081000" />
+      <workItem from="1610792277004" duration="10810000" />
     </task>
     <servers />
   </component>
