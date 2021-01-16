@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp
-Futurama.h
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.h
-
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.h
-future
--
-thread
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp
+iostream
 -
 vector
 -
+peripherals/Aes.h
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
+
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
 
