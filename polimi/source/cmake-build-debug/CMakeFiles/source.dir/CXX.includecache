@@ -6,11 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp
-TimerRegister.h
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.h
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp
+Futurama.h
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.h
 
-/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.h
-functional
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.h
+future
+-
+thread
+-
+vector
 -
 

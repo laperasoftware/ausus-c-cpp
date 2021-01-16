@@ -143,87 +143,6 @@ source/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/build
 .PHONY : source/fast
 
-Aes.o: Aes.cpp.o
-
-.PHONY : Aes.o
-
-# target to build an object file
-Aes.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Aes.cpp.o
-.PHONY : Aes.cpp.o
-
-Aes.i: Aes.cpp.i
-
-.PHONY : Aes.i
-
-# target to preprocess a source file
-Aes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Aes.cpp.i
-.PHONY : Aes.cpp.i
-
-Aes.s: Aes.cpp.s
-
-.PHONY : Aes.s
-
-# target to generate assembly for a file
-Aes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Aes.cpp.s
-.PHONY : Aes.cpp.s
-
-Futurama.o: Futurama.cpp.o
-
-.PHONY : Futurama.o
-
-# target to build an object file
-Futurama.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.o
-.PHONY : Futurama.cpp.o
-
-Futurama.i: Futurama.cpp.i
-
-.PHONY : Futurama.i
-
-# target to preprocess a source file
-Futurama.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.i
-.PHONY : Futurama.cpp.i
-
-Futurama.s: Futurama.cpp.s
-
-.PHONY : Futurama.s
-
-# target to generate assembly for a file
-Futurama.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.s
-.PHONY : Futurama.cpp.s
-
-TimerRegister.o: TimerRegister.cpp.o
-
-.PHONY : TimerRegister.o
-
-# target to build an object file
-TimerRegister.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.o
-.PHONY : TimerRegister.cpp.o
-
-TimerRegister.i: TimerRegister.cpp.i
-
-.PHONY : TimerRegister.i
-
-# target to preprocess a source file
-TimerRegister.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.i
-.PHONY : TimerRegister.cpp.i
-
-TimerRegister.s: TimerRegister.cpp.s
-
-.PHONY : TimerRegister.s
-
-# target to generate assembly for a file
-TimerRegister.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/TimerRegister.cpp.s
-.PHONY : TimerRegister.cpp.s
-
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -251,6 +170,87 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+peripherals/Aes.o: peripherals/Aes.cpp.o
+
+.PHONY : peripherals/Aes.o
+
+# target to build an object file
+peripherals/Aes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Aes.cpp.o
+.PHONY : peripherals/Aes.cpp.o
+
+peripherals/Aes.i: peripherals/Aes.cpp.i
+
+.PHONY : peripherals/Aes.i
+
+# target to preprocess a source file
+peripherals/Aes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Aes.cpp.i
+.PHONY : peripherals/Aes.cpp.i
+
+peripherals/Aes.s: peripherals/Aes.cpp.s
+
+.PHONY : peripherals/Aes.s
+
+# target to generate assembly for a file
+peripherals/Aes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Aes.cpp.s
+.PHONY : peripherals/Aes.cpp.s
+
+peripherals/Futurama.o: peripherals/Futurama.cpp.o
+
+.PHONY : peripherals/Futurama.o
+
+# target to build an object file
+peripherals/Futurama.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Futurama.cpp.o
+.PHONY : peripherals/Futurama.cpp.o
+
+peripherals/Futurama.i: peripherals/Futurama.cpp.i
+
+.PHONY : peripherals/Futurama.i
+
+# target to preprocess a source file
+peripherals/Futurama.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Futurama.cpp.i
+.PHONY : peripherals/Futurama.cpp.i
+
+peripherals/Futurama.s: peripherals/Futurama.cpp.s
+
+.PHONY : peripherals/Futurama.s
+
+# target to generate assembly for a file
+peripherals/Futurama.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/Futurama.cpp.s
+.PHONY : peripherals/Futurama.cpp.s
+
+peripherals/TimerRegister.o: peripherals/TimerRegister.cpp.o
+
+.PHONY : peripherals/TimerRegister.o
+
+# target to build an object file
+peripherals/TimerRegister.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o
+.PHONY : peripherals/TimerRegister.cpp.o
+
+peripherals/TimerRegister.i: peripherals/TimerRegister.cpp.i
+
+.PHONY : peripherals/TimerRegister.i
+
+# target to preprocess a source file
+peripherals/TimerRegister.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/TimerRegister.cpp.i
+.PHONY : peripherals/TimerRegister.cpp.i
+
+peripherals/TimerRegister.s: peripherals/TimerRegister.cpp.s
+
+.PHONY : peripherals/TimerRegister.s
+
+# target to generate assembly for a file
+peripherals/TimerRegister.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/peripherals/TimerRegister.cpp.s
+.PHONY : peripherals/TimerRegister.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -260,18 +260,18 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... source"
-	@echo "... Aes.o"
-	@echo "... Aes.i"
-	@echo "... Aes.s"
-	@echo "... Futurama.o"
-	@echo "... Futurama.i"
-	@echo "... Futurama.s"
-	@echo "... TimerRegister.o"
-	@echo "... TimerRegister.i"
-	@echo "... TimerRegister.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... peripherals/Aes.o"
+	@echo "... peripherals/Aes.i"
+	@echo "... peripherals/Aes.s"
+	@echo "... peripherals/Futurama.o"
+	@echo "... peripherals/Futurama.i"
+	@echo "... peripherals/Futurama.s"
+	@echo "... peripherals/TimerRegister.o"
+	@echo "... peripherals/TimerRegister.i"
+	@echo "... peripherals/TimerRegister.s"
 .PHONY : help
 
 

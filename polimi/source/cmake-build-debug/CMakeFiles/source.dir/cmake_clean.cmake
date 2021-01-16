@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/source.dir/Aes.cpp.o"
-  "CMakeFiles/source.dir/Futurama.cpp.o"
-  "CMakeFiles/source.dir/TimerRegister.cpp.o"
   "CMakeFiles/source.dir/main.cpp.o"
+  "CMakeFiles/source.dir/peripherals/Aes.cpp.o"
+  "CMakeFiles/source.dir/peripherals/Futurama.cpp.o"
+  "CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o"
   "source"
   "source.pdb"
 )

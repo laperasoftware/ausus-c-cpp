@@ -82,25 +82,25 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.cpp">
-			<Option target="source"/>
-		</Unit>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.h">
-			<Option target="source"/>
-		</Unit>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.cpp">
-			<Option target="source"/>
-		</Unit>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.h">
-			<Option target="source"/>
-		</Unit>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp">
-			<Option target="source"/>
-		</Unit>
-		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.h">
-			<Option target="source"/>
-		</Unit>
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.h">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.cpp">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.h">
 			<Option target="source"/>
 		</Unit>
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/CMakeLists.txt">

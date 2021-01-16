@@ -90,59 +90,59 @@ CMakeFiles/source.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/main.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp -o CMakeFiles/source.dir/main.cpp.s
 
-CMakeFiles/source.dir/Aes.cpp.o: CMakeFiles/source.dir/flags.make
-CMakeFiles/source.dir/Aes.cpp.o: ../Aes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/source.dir/Aes.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/Aes.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.cpp
+CMakeFiles/source.dir/peripherals/Aes.cpp.o: CMakeFiles/source.dir/flags.make
+CMakeFiles/source.dir/peripherals/Aes.cpp.o: ../peripherals/Aes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/source.dir/peripherals/Aes.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/peripherals/Aes.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp
 
-CMakeFiles/source.dir/Aes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/Aes.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.cpp > CMakeFiles/source.dir/Aes.cpp.i
+CMakeFiles/source.dir/peripherals/Aes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/peripherals/Aes.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp > CMakeFiles/source.dir/peripherals/Aes.cpp.i
 
-CMakeFiles/source.dir/Aes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/Aes.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.cpp -o CMakeFiles/source.dir/Aes.cpp.s
+CMakeFiles/source.dir/peripherals/Aes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/peripherals/Aes.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp -o CMakeFiles/source.dir/peripherals/Aes.cpp.s
 
-CMakeFiles/source.dir/TimerRegister.cpp.o: CMakeFiles/source.dir/flags.make
-CMakeFiles/source.dir/TimerRegister.cpp.o: ../TimerRegister.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/source.dir/TimerRegister.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/TimerRegister.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp
+CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o: CMakeFiles/source.dir/flags.make
+CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o: ../peripherals/TimerRegister.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.cpp
 
-CMakeFiles/source.dir/TimerRegister.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/TimerRegister.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp > CMakeFiles/source.dir/TimerRegister.cpp.i
+CMakeFiles/source.dir/peripherals/TimerRegister.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/peripherals/TimerRegister.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.cpp > CMakeFiles/source.dir/peripherals/TimerRegister.cpp.i
 
-CMakeFiles/source.dir/TimerRegister.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/TimerRegister.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp -o CMakeFiles/source.dir/TimerRegister.cpp.s
+CMakeFiles/source.dir/peripherals/TimerRegister.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/peripherals/TimerRegister.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.cpp -o CMakeFiles/source.dir/peripherals/TimerRegister.cpp.s
 
-CMakeFiles/source.dir/Futurama.cpp.o: CMakeFiles/source.dir/flags.make
-CMakeFiles/source.dir/Futurama.cpp.o: ../Futurama.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/source.dir/Futurama.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/Futurama.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.cpp
+CMakeFiles/source.dir/peripherals/Futurama.cpp.o: CMakeFiles/source.dir/flags.make
+CMakeFiles/source.dir/peripherals/Futurama.cpp.o: ../peripherals/Futurama.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/source.dir/peripherals/Futurama.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/source.dir/peripherals/Futurama.cpp.o -c /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp
 
-CMakeFiles/source.dir/Futurama.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/Futurama.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.cpp > CMakeFiles/source.dir/Futurama.cpp.i
+CMakeFiles/source.dir/peripherals/Futurama.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/source.dir/peripherals/Futurama.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp > CMakeFiles/source.dir/peripherals/Futurama.cpp.i
 
-CMakeFiles/source.dir/Futurama.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/Futurama.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.cpp -o CMakeFiles/source.dir/Futurama.cpp.s
+CMakeFiles/source.dir/peripherals/Futurama.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/source.dir/peripherals/Futurama.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Futurama.cpp -o CMakeFiles/source.dir/peripherals/Futurama.cpp.s
 
 # Object files for target source
 source_OBJECTS = \
 "CMakeFiles/source.dir/main.cpp.o" \
-"CMakeFiles/source.dir/Aes.cpp.o" \
-"CMakeFiles/source.dir/TimerRegister.cpp.o" \
-"CMakeFiles/source.dir/Futurama.cpp.o"
+"CMakeFiles/source.dir/peripherals/Aes.cpp.o" \
+"CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o" \
+"CMakeFiles/source.dir/peripherals/Futurama.cpp.o"
 
 # External object files for target source
 source_EXTERNAL_OBJECTS =
 
 source: CMakeFiles/source.dir/main.cpp.o
-source: CMakeFiles/source.dir/Aes.cpp.o
-source: CMakeFiles/source.dir/TimerRegister.cpp.o
-source: CMakeFiles/source.dir/Futurama.cpp.o
+source: CMakeFiles/source.dir/peripherals/Aes.cpp.o
+source: CMakeFiles/source.dir/peripherals/TimerRegister.cpp.o
+source: CMakeFiles/source.dir/peripherals/Futurama.cpp.o
 source: CMakeFiles/source.dir/build.make
 source: CMakeFiles/source.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable source"
