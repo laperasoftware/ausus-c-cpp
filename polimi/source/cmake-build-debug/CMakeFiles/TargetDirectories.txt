@@ -1,0 +1,3 @@
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/cmake-build-debug/CMakeFiles/source.dir
