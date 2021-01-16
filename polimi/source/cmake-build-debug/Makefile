@@ -170,6 +170,33 @@ Aes.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Aes.cpp.s
 .PHONY : Aes.cpp.s
 
+Futurama.o: Futurama.cpp.o
+
+.PHONY : Futurama.o
+
+# target to build an object file
+Futurama.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.o
+.PHONY : Futurama.cpp.o
+
+Futurama.i: Futurama.cpp.i
+
+.PHONY : Futurama.i
+
+# target to preprocess a source file
+Futurama.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.i
+.PHONY : Futurama.cpp.i
+
+Futurama.s: Futurama.cpp.s
+
+.PHONY : Futurama.s
+
+# target to generate assembly for a file
+Futurama.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/source.dir/build.make CMakeFiles/source.dir/Futurama.cpp.s
+.PHONY : Futurama.cpp.s
+
 TimerRegister.o: TimerRegister.cpp.o
 
 .PHONY : TimerRegister.o
@@ -236,6 +263,9 @@ help:
 	@echo "... Aes.o"
 	@echo "... Aes.i"
 	@echo "... Aes.s"
+	@echo "... Futurama.o"
+	@echo "... Futurama.i"
+	@echo "... Futurama.s"
 	@echo "... TimerRegister.o"
 	@echo "... TimerRegister.i"
 	@echo "... TimerRegister.s"

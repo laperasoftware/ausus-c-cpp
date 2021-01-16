@@ -88,6 +88,12 @@
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Aes.h">
 			<Option target="source"/>
 		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.cpp">
+			<Option target="source"/>
+		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/Futurama.h">
+			<Option target="source"/>
+		</Unit>
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/TimerRegister.cpp">
 			<Option target="source"/>
 		</Unit>
