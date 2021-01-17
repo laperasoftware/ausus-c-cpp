@@ -97,7 +97,7 @@ void family(int x, int y) {
         }
         else {
             wait(NULL);
-            
+
         }
 
     }
