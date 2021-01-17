@@ -5,6 +5,7 @@ CMakeFiles/source.dir/main.cpp.o
  /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.h
  /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/main.cpp
  /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
+ /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/threads/SyncPoint.h
 CMakeFiles/source.dir/peripherals/Aes.cpp.o
  /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.cpp
  /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h

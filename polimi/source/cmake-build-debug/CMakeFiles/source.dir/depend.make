@@ -4,6 +4,7 @@
 CMakeFiles/source.dir/main.cpp.o: ../kernel/Processes.h
 CMakeFiles/source.dir/main.cpp.o: ../main.cpp
 CMakeFiles/source.dir/main.cpp.o: ../peripherals/Aes.h
+CMakeFiles/source.dir/main.cpp.o: ../threads/SyncPoint.h
 
 CMakeFiles/source.dir/peripherals/Aes.cpp.o: ../peripherals/Aes.cpp
 CMakeFiles/source.dir/peripherals/Aes.cpp.o: ../peripherals/Aes.h

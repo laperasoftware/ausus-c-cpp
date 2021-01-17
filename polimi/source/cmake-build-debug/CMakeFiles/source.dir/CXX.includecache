@@ -33,6 +33,18 @@ peripherals/Aes.h
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
 kernel/Processes.h
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/kernel/Processes.h
+threads/SyncPoint.h
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/threads/SyncPoint.h
 
 /home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/Aes.h
+
+/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/threads/SyncPoint.h
+list
+-
+thread
+-
+mutex
+-
+condition_variable
+-
 

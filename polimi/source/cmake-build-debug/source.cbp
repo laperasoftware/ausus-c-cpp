@@ -106,6 +106,9 @@
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/peripherals/TimerRegister.h">
 			<Option target="source"/>
 		</Unit>
+		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/threads/SyncPoint.h">
+			<Option target="source"/>
+		</Unit>
 		<Unit filename="/home/famiglia/Documenti/Informatica/ausus-c-cpp/polimi/source/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
